@@ -118,7 +118,7 @@
 						id = "TimeBarFront"
 						height = "3"
 						width = "0"
-						color = "0xeb4034FF"
+						color = "0xFFFFFFFF"
 					/>
 				</Rectangle>
 				<Label
